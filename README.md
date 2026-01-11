@@ -16,7 +16,7 @@ conda create -n smash -y sourmash snakemake
 
 Grab repo:
 ```
-git clone https://github.com/ctb/2026-gather-many-metagenomes.sig
+git clone https://github.com/ctb/2026-gather-many-metagenomes.git
 ```
 
 ## Run
